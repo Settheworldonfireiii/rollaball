@@ -1,0 +1,31 @@
+Initialize engine version: 2017.1.0b3 (9393889e4fe6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630M (ID=0xde9)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Jeddid\Documents\Uniti\Roll a Ball\Builds\Roll a Ball(win)_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.098 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.430014 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4094 -> priority: 1 
+  Thread -> id: 18d0 -> priority: 1 
+  Thread -> id: 3f7c -> priority: 1 
+  Thread -> id: 1990 -> priority: 1 
